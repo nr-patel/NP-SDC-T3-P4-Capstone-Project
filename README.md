@@ -14,7 +14,7 @@ PID controller has been used with low pass filtering over current linear velocit
 
 ## Traffic Light Detection and Recognition Models
 
-Developed several traffic light detection and recognition models. Detailed [information about our models](./Model_Info.md).
+Developed several traffic light detection and recognition models. Detailed [information about TL Classification models](./Model_Info.md).
 Developed different models simultaneously to determine the color of the traffic lights. Separate models for the simulation environment and separate models for the real environment - one of our models was trained on both real and simulated images and is uses for detection in both simulated and real environments.
 
 ### Components
