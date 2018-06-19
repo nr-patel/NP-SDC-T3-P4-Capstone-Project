@@ -2,7 +2,7 @@
 Self-Driving Car Engineer Nanodegree Program - Capstone Project
 
 ---
-[![Udacity Lincoln MKZ driving in simulation using our controllers and light detection](/imgs/output.jpg)](https://youtu.be/rEmeogwxOzw)
+[![Udacity Lincoln MKZ driving in simulation using our controllers and light detection](/imgs/Output.jpg)](https://youtu.be/rEmeogwxOzw)
 
 
 This is the Capstone project for the Udacity Self-Driving Car Nanodegree. Developed software to guide a real self-driving car around a test track. Using the Robot Operating System (ROS), created nodes for traffic light detection and classification, trajectory planning, and control.
@@ -82,7 +82,7 @@ The following are the approaches we tried:
 	
 ## Final Project Video
 
-[![Udacity Lincoln MKZ driving in simulation using our controllers and light detection](/imgs/output.jpg)](https://youtu.be/rEmeogwxOzw)
+[![Udacity Lincoln MKZ driving in simulation using our controllers and light detection](/imgs/Output.jpg)](https://youtu.be/rEmeogwxOzw)
 
 
 Please use **one** of the two installation options, either native **or** docker installation.
